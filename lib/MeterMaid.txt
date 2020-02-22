@@ -1,0 +1,3 @@
+This version of the (yet) uncompleted Metermaid is going to be using ArduinoJson 6.
+Version MM_nodeR_V4.2 was using ArduinoJson 5. 
+
